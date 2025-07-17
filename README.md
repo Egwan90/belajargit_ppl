@@ -1,2 +1,7 @@
 # belajargit_ppl
-project cerita
+nama project : cerita bersama
+# cerita Nur
+
+# cerita Rosyid
+
+# cerita Zaky
